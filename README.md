@@ -1,4 +1,4 @@
-# @easyqrscanbot - Telegram QR Code Scanner - Mini App
+# @easyqrscanbot - Telegram QR Code Scanner - Mini App цук
 
 Easily scan QR codes using Telegram! 
 
